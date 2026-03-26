@@ -5,9 +5,8 @@ Esse repositório foi feito com o intuito de disponibilizar meus exercícios rea
 ## 📌 Sobre o Repositório
 Aqui ficarão armazenados todos os códigos, listas de exercícios e projetos desenvolvidos ao longo do semestre. O objetivo é registrar meu aprendizado e evolução na disciplina.
 
-## 💻 Tecnologias Utilizadas
-*(Edite esta seção com a linguagem que vocês usarão na cadeira, por exemplo:)*
-* Python / Java / C++
+## 💻 Tecnologia Utilizada
+* Java 
 
 ## 📂 Estrutura das Pastas
 *(Sugestão de como organizar seus arquivos futuramente)*
