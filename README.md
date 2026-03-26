@@ -8,11 +8,5 @@ Aqui ficarão armazenados todos os códigos, listas de exercícios e projetos de
 ## 💻 Tecnologia Utilizada
 * Java 
 
-## 📂 Estrutura das Pastas
-*(Sugestão de como organizar seus arquivos futuramente)*
-- `Lista_01/`: Exercícios sobre o primeiro tópico.
-- `Lista_02/`: Exercícios sobre o segundo tópico.
-- `Projeto_Final/`: Código do projeto de conclusão da disciplina.
-
 ## 🚀 Status
 Em andamento... ⏳
